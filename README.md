@@ -1,7 +1,5 @@
-````markdown
 # ✅ TUTORIAL LENGKAP: Instalasi JDK 17 Hingga Integrasi SonarQube
 
----
 
 ### 1. Instalasi JDK 17
 
